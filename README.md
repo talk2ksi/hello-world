@@ -1,2 +1,5 @@
 # hello-world
-Learning to create and maintain repository
+
+Hi All!!!
+
+This is first branch. Learnign to use Git Hub. Thanks all
